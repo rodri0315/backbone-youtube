@@ -1,0 +1,16 @@
+.comments-container {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+/* .sidebar {
+  float: right;
+} */
+
+#sticky-sidebar {
+  position:fixed;
+  max-width: 20%;
+  }
